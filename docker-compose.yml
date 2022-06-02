@@ -1,7 +1,0 @@
-version: version
-
-services:
-
-  worker:
-
-    build: .
